@@ -1,1 +1,4 @@
-Мой первый репозиторий
+user
+	name=Natalya
+	email=pelaiza615@gmail.com
+	
